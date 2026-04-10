@@ -71,19 +71,23 @@ The objective is to help businesses make **data-driven decisions** by identifyin
 
 ### Sales by Region
 
-![Sales by Region](visuals/sales_by_region.png)
+![Sales by Region](<img width="640" height="480" alt="salesbyregion" src="https://github.com/user-attachments/assets/93824d36-3460-4b17-8b49-65c958d4d76a" />
+)
 
 ### Profit by Region
 
-![Profit by Region](visuals/profit_by_region.png)
+![Profit by Region](<img width="640" height="480" alt="profitbyregion" src="https://github.com/user-attachments/assets/50e2cf0e-e4e3-4709-be74-79bd53240f61" />
+)
 
 ### Sales by Category
 
-![Sales by Category](visuals/sales_by_category.png)
+![Sales by Category](<img width="640" height="480" alt="salesbycat" src="https://github.com/user-attachments/assets/2dd115de-90e2-4417-9450-935e3c1d2d34" />
+)
 
 ### Profit by Sub-Category
 
-![Profit by Sub-Category](visuals/profit_by_subcategory.png)
+![Profit by Sub-Category](<img width="640" height="480" alt="profitbysub" src="https://github.com/user-attachments/assets/b89b206b-d1da-4460-9406-e9318a988a52" />
+)
 
 ---
 
