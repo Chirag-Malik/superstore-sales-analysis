@@ -30,7 +30,7 @@ The objective is to help businesses make **data-driven decisions** by identifyin
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 * **Python**
 * **Pandas** – data manipulation
@@ -40,25 +40,25 @@ The objective is to help businesses make **data-driven decisions** by identifyin
 
 ## 📈 Key Analysis
 
-### 🔹 Sales & Profit by Region
+###  Sales & Profit by Region
 
 * Compared total sales and profit across regions
 * Identified high-revenue vs low-profit regions
 
-### 🔹 Category Performance
+###  Category Performance
 
 * Evaluated which product categories drive the most revenue and profit
 
-### 🔹 Sub-Category Insights
+###  Sub-Category Insights
 
 * Analyzed average sales distribution
 * Identified top and underperforming sub-categories
 
-### 🔹 Discount Impact
+###  Discount Impact
 
 * Studied how discount levels affect profitability
 
-### 🔹 KPIs
+###  KPIs
 
 * Total Sales
 * Total Profit
@@ -89,23 +89,14 @@ The objective is to help businesses make **data-driven decisions** by identifyin
 
 ## 🔍 Key Insights
 
-* 📌 Some regions generate **high sales but low profit margins**
-* 📌 Heavy discounts often lead to **reduced profitability**
-* 📌 A few sub-categories contribute the majority of profit
-* 📌 Profitability varies significantly across regions
+*  Some regions generate **high sales but low profit margins**
+*  Heavy discounts often lead to **reduced profitability**
+*  A few sub-categories contribute the majority of profit
+*  Profitability varies significantly across regions
 
 ---
 
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
-python src/analysis.py
-```
-
----
-
-## 📌 Conclusion
+##  Conclusion
 
 This analysis highlights the importance of balancing **sales growth and profitability**. Businesses should optimize discount strategies and focus on high-margin product segments.
 
